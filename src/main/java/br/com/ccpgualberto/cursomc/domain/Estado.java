@@ -1,7 +1,5 @@
 package br.com.ccpgualberto.cursomc.domain;
 
-import static org.springframework.test.web.client.match.MockRestRequestMatchers.method;
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
